@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "748223774597",
+    "project_id": "realplaza-c9969",
+    "storage_bucket": "realplaza-c9969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748223774597:android:db9717ddc2fef09e674eec",
+        "android_client_info": {
+          "package_name": "com.realplaza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748223774597-pfll6b73bh43bpgbruct7su4qhrd8cfe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.realplaza",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "748223774597-lha0n5pkgmfoeq85ic64ddefm4m52et8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuLQ9F3mnbunXQaigXGcMbfugDh-wdRAo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748223774597-lha0n5pkgmfoeq85ic64ddefm4m52et8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748223774597-9s66qr5e0p02790db37d4eedj2jmc1no.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.realplaza"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
